@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dg/Codes/live555_demo/liveMedia/rtcp_from_spec.c
+rtcp_from_spec.h
+/home/dg/Codes/live555_demo/liveMedia/rtcp_from_spec.h
+
+/home/dg/Codes/live555_demo/liveMedia/rtcp_from_spec.h
+stdlib.h
+-
+

@@ -1,0 +1,1 @@
+/home/dg/Projects/Tools/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-g++    -rdynamic CMakeFiles/testRTSPClient.dir/testProgs/testRTSPClient.cpp.o  -o testRTSPClient  -lssl -lcrypto liveMedia/libliveMedia.a groupsock/libgroupsock.a BasicUsageEnvironment/libBasicUsageEnvironment.a UsageEnvironment/libUsageEnvironment.a -lssl -lcrypto 
